@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "useDefineForClassFields": true,
+    "moduleResolution": "node",
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "allowJs": true,
+    "jsx": "preserve",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "infrastructure/authConfig.ts", "src/utils/UserInfo.ts", "src/utils/MsGraphApiCall.ts", "src/router/router.js", "src/router/NavigationClient.ts", "src/router/Guard.ts", "src/app.ts", "src/env.d.ts"]
+}

@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AZURE_STORAGE_KEY":"CMUf//YdTcQzWzmY7y3ki6cC3aKTZ+WJsFfiT2up2sjHGt5+UObk0XHgYZOEJaKU2xTZfiQDZFCd+AStFFTCgg==",
+    "PORT":"80",
+    "DB_NAME":"Papers"
+  }
+}
