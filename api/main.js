@@ -12,7 +12,7 @@ const app = express();
 
 // Handles the CORS headers
 const corsOptions ={
-    origin:'http://lively-meadow-0c02fb810.2.azurestaticapps.net:3000', 
+    origin:'http://lively-meadow-0c02fb810.2.azurestaticapps.net:80', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200 
 }

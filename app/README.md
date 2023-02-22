@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-1. Open [http://lively-meadow-0c02fb810.2.azurestaticapps.net:3000](http://lively-meadow-0c02fb810.2.azurestaticapps.net:3000) to view it in the browser.
+1. Open [http://lively-meadow-0c02fb810.2.azurestaticapps.net:80](http://lively-meadow-0c02fb810.2.azurestaticapps.net:80) to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
