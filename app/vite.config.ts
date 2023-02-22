@@ -8,7 +8,7 @@ dns.setDefaultResultOrder('verbatim');
 export default defineConfig({
   plugins: [vue()],
     server: {
-        host: 'lively-meadow-0c02fb810.2.azurestaticapps.net',
-        port: 80,
+        host: 'localhost',
+        port: 3000,
     },
 })
