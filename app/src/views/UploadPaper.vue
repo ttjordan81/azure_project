@@ -114,7 +114,7 @@ export default {
         async submitData() {
             this.msg = 'Saving';
             this.msgDiv= true;
-            await axios.post('http://localhost/api/post-survey', {
+            await axios.post('http://lively-meadow-0c02fb810.2.azurestaticapps.net/api/post-survey', {
                 "paper": "cloud_compute",
                 "student_name": this.alumni_name,
                 "title": this.title,

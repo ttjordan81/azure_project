@@ -95,7 +95,7 @@ export default {
   mounted() {
 
     this.papers = axios
-      .get('http://localhost/api/get-survey')
+      .get('http://lively-meadow-0c02fb810.2.azurestaticapps.net/api/get-survey')
       .then((response) => {
         this.papers = response.data.value
       }).catch(error => {
