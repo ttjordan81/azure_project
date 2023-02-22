@@ -9,6 +9,6 @@ export default defineConfig({
   plugins: [vue()],
     server: {
         host: 'lively-meadow-0c02fb810.2.azurestaticapps.net',
-        port: 3000,
+        port: 80,
     },
 })
